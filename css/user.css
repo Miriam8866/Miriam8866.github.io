@@ -5,4 +5,5 @@ body {
   background-repeat: no-repeat;  /* 不重复平铺 */
   background-attachment: fixed;  /* 背景固定，不随页面滚动 */
   background-position: center;   /* 居中显示 */
+  color: white; /* 设置字体颜色为白色 */
 }
