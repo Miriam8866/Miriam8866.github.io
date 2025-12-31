@@ -1,6 +1,6 @@
 /* 设置整个页面的背景图 */
 body {
-  background-image: url("D:/MiriamBlog/myblogs/themes/mashiro/source/images"); /* 背景图路径 */
+  background-image: url("https://github.com/Miriam8866/MiriamBlog.github.io/tree/main/images/background.jpg"); /* 背景图路径 */
   background-size: cover;        /* 背景图自动缩放填满页面 */
   background-repeat: no-repeat;  /* 不重复平铺 */
   background-attachment: fixed;  /* 背景固定，不随页面滚动 */
